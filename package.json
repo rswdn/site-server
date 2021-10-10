@@ -1,0 +1,19 @@
+{
+  "name": "site-server",
+  "version": "1.0.0",
+  "description": "A server for my own site which pulls github information through the API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanSowden/site-server.git"
+  },
+  "author": "Ryan Sowden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanSowden/site-server/issues"
+  },
+  "homepage": "https://github.com/RyanSowden/site-server#readme"
+}
